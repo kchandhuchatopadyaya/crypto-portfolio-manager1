@@ -4,17 +4,14 @@ A simple Python project to analyze and visualize cryptocurrency data like Bitcoi
 
 This project includes Python scripts to process historical data, visualize price trends using moving averages, and simulate basic investment analysis. It is organized using Agile methodology.
 
----
 
 ## 📁 Project Structure
 
 - `CryptoInvestmentManager/` – Python code files (`Final_code.py`)
 - `db/` – Data files (CSV and SQLite database)
-- `Agile_Document/` – Sprint plans and Agile documentation
+- `Agile-Docs/` – Sprint plans and Agile documentation
 - `Document/` – Project description and notes
-- `docs/` – Extra documentation or reports
 
----
 
 ## 🚀 Features
 
@@ -23,7 +20,6 @@ This project includes Python scripts to process historical data, visualize price
 - Basic simulation-ready structure
 - Organized using Agile sprint structure
 
----
 
 ## ▶️ How to Run
 
@@ -36,7 +32,7 @@ This project includes Python scripts to process historical data, visualize price
 3.Run the Python script:
     python CryptoInvestmentManager/Final_code.py
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python3
 Pandas
