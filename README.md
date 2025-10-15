@@ -31,7 +31,7 @@ This project includes Python scripts to process historical data, visualize price
 
 2. Install the required libraries:
    ```bash
-   pip install pandas matplotlib
+  pip install pandas matplotlib
    
 3.Run the Python script:
     python CryptoInvestmentManager/Final_code.py
