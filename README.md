@@ -9,7 +9,7 @@ This project includes Python scripts to process historical data, visualize price
 
 - `CryptoInvestmentManager/` – Python code files (`Final_code.py`)
 - `db/` – Data files (CSV and SQLite database)
-- `Agile-Docs/` – Sprint plans and Agile documentation
+- `Agile_Docs/` – Sprint plans and Agile documentation
 - `Document/` – Project description and notes
 
 
