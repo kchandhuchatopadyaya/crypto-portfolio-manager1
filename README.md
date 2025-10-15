@@ -31,7 +31,7 @@ This project includes Python scripts to process historical data, visualize price
    pip install pandas matplotlib
    
  3. Run the Python script:
-    
+      ```bash
       python CryptoInvestmentManager/Final_code.py
 
 ## 🛠 Technologies Used
