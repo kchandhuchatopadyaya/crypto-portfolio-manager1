@@ -1,8 +1,3 @@
-
-Kondlapudi Lasya <lasyareddy808@gmail.com>
-4:15 PM (2 minutes ago)
-to lasyareddy8804
-
 # =====================================================================
 # CRYPTOCURRENCY PORTFOLIO MANAGEMENT PROJECT
 # =====================================================================
