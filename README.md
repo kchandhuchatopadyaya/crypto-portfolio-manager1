@@ -36,4 +36,4 @@ This project includes Python scripts to process historical data, visualize price
 
 ## 🛠 Technologies Used
 
-Python3, Pandas, Matplotlib
+    Python3, Pandas, Matplotlib
