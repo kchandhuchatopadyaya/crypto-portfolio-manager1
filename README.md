@@ -25,7 +25,8 @@ This project includes Python scripts to process historical data, visualize price
 
 1. Make sure you have Python 3 installed.
 
-2. Install the required libraries:
+2. **Install the required libraries:**
+   ```bash
    
    pip install pandas matplotlib
    
